@@ -12,6 +12,42 @@ body {
     font-family: borel, Arial;
     margin-top: 50px;
     margin-left: 100px;
+    margin-right: 100px;
+    align-content: center;
+}
+
+/* header {
+    position: fixed;
+} */
+
+nav {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li a {
+    padding: 40px;
+    color: black;
+    font-size: 150%;
+}
+
+section {
+    position: relative;
+    display: flex;
+    align-content: center;
+}
+
+.skincare {
+}
+
+.scimg {
+    width: 100vh;
+    
 }
 
 
