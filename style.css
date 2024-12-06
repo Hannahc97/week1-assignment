@@ -1,0 +1,14 @@
+/* Feel free to have a CSS reset!
+You can have a minimum one or the fancy one */
+
+body {
+    background-color: slateblue;
+}
+
+/* When you are styling your page, my advice is that you use flexbox to style the layout of your webpage and positioning for inividual elements */
+
+/* If you want to build something similar to the SpaceY website, these are some selectors that will be useful */
+
+/* background-image --> We use this in css to add a background image  */
+/* vh and vw --> we use the viewport height and viewport width to show the content of our website adapted to the user can see on the screen at the time. not using rem or pixels so there are sections - 1 section at a time, and it adjusts to your screen */
+/* z --> index - if we change the z-index of an element, it will push the element to the front or the back of the screen */
