@@ -1,9 +1,20 @@
 /* Feel free to have a CSS reset!
 You can have a minimum one or the fancy one */
 
-body {
-    background-color: slateblue;
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
+
+body {
+    background-color: #f5fcff;
+    font-family: borel, Arial;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+
 
 /* When you are styling your page, my advice is that you use flexbox to style the layout of your webpage and positioning for inividual elements */
 
