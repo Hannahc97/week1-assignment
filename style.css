@@ -82,6 +82,11 @@ a:hover {
     color: cornflowerblue;
 }
 
+footer {
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
 
 /* When you are styling your page, my advice is that you use flexbox to style the layout of your webpage and positioning for inividual elements */
 
