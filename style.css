@@ -77,6 +77,13 @@ h3 {
     left: 45%;
 }
 
+h3:hover{
+    color: cornflowerblue;
+}
+
+a:hover {
+    color: cornflowerblue;
+}
 
 
 /* When you are styling your page, my advice is that you use flexbox to style the layout of your webpage and positioning for inividual elements */
