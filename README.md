@@ -11,7 +11,7 @@ Another feature I implemented was a hover effect on buttons to make them more in
 
 There were some stretch requirments that I couldn't achieve as they were a bit challenging to implement. 
 
-I did find the centering some of the elements a bit tricky as they would not move in the correct direction. I also wanted to link the text in the navbar to the images and text, however I was unable to do that, if you can advise how to do that, that would be much appreciated! Also I would like to know how to create other internal web pages. 
+I did find the centering some of the elements a bit tricky as they would not move in the correct direction. I also wanted to link the text in the navbar to the images and text, however I was unable to do that, if you can advise how to do that, that would be much appreciated! Also I would like to know how to create other internal web pages. I tried to centre the footer and it would show on the local host but not the deployed version, so I would like to know if I have done something incorrect. 
 
 I would like to request some feedback about my submission, espeically on whether I used the flexbox model correctly. Also if I have overcomplicated any of the CSS, which could be simplified. As well, I would like to know how to centre text on top of an image exactly in the centre of it. 
 
