@@ -11,9 +11,9 @@ body {
     background-color: #f5fcff;
     font-family: borel, Arial;
     margin-top: 50px;
-    margin-left: 150px;
+    margin-left: 100px;
     margin-right: 100px;
-    align-content: center;
+    /* align-content: center; */
 }
 
 /* header {
@@ -22,7 +22,7 @@ body {
 
 nav {
     display: flex;
-    flex-direction: column;
+    /* flex-direction: row; */
     justify-content: center;
 }
 
@@ -41,26 +41,27 @@ section {
     padding: 20px;
     margin-top: 20px;
     display:flex;
-    flex-direction: row;
+    /* flex-direction: row; */
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 
 .skincare {
 }
 
 .scimg {
-    width: 650px;
+    width: 600px;
     border-radius: 20px;
     
 }
 
 .muimg {
-    width: 650px;
+    width: 600px;
     border-radius: 20px;
 }
 
 .hcimg {
-    width: 650px;
+    width: 600px;
     border-radius: 20px;
 }
 
